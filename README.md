@@ -14,3 +14,9 @@
 - Top 5 products by revenue  
 - Region-wise performance  
 - Correlation heatmaps and pairwise scatterplots
+
+**How to Run**  
+```bash
+git clone ...
+cd Dewali_sales_EDA
+jupyter notebook
